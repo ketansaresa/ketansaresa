@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ketan Saresa</h1>
 <h3 align="center">A passionate Backend Engineer from India</h3>
 
-- 📫 How to reach me **saresaketan@gmail.com**
+📫 How to reach me **saresaketan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
